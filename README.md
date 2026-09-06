@@ -11,3 +11,9 @@ The project focuses on transforming raw marketing data into meaningful insights 
 - Data collection and initial data exploration
 - Data cleaning and preprocessing
 - Performed Pivot Tables and analyze the marketing business performance reports  
+### Power BI
+- Data transformation using Power Query
+- Data modeling
+- Devoloped DAX measure and KPI
+-  Data Modeling process and created relationship between multiple Table
+-  Devoloped Interactive Dashboards and Visualized marketing overall Business performance   
