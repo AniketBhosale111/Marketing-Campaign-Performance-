@@ -17,3 +17,8 @@ The project focuses on transforming raw marketing data into meaningful insights 
 - Devoloped DAX measure and KPI
 -  Data Modeling process and created relationship between multiple Table
 -  Devoloped Interactive Dashboards and Visualized marketing overall Business performance   
+## SQL
+- optimized Some SQL Queries like select, group BY, order BY, Joins, Windows Functions
+- Filtering And Sorting Data
+- using Aggregates Function
+- calculates the key Business insights   
