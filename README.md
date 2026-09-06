@@ -43,3 +43,10 @@ key insights and results
 - data Analysis (Dax, SQL queries, KPI) 
 - Data visualization
 - dashboard creation 
+## Business required Problem statement 
+- Marketing campaign performance
+- Customer conversion
+- Importance Marketing KPI
+- Which marketing channels perform best?
+- What factors influence customer conversion?
+- How effective are social media marketing activities?
