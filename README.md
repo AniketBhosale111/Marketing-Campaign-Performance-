@@ -22,3 +22,15 @@ The project focuses on transforming raw marketing data into meaningful insights 
 - Filtering And Sorting Data
 - using Aggregates Function
 - calculates the key Business insights   
+## Project Overflow
+- Row Data
+- Data collection 
+- Extraction Data using ETL process
+- Data Cleaning ( null values, duplicates, clean,)
+  using power Query Editor in Excel
+-  data analysis
+   (Exploratory Data Analysis) using SQL Queries
+-  Data Visualization(created interactive Dashboard)
+  using Power BI
+- Recommendation/Predictions
+key insights and results   
