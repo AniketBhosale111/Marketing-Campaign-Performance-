@@ -7,3 +7,7 @@ The project focuses on transforming raw marketing data into meaningful insights 
 - Microsoft Excel
 - Power BI
 - sqL
+### Microsoft Excel
+- Data collection and initial data exploration
+- Data cleaning and preprocessing
+- Performed Pivot Tables and analyze the marketing business performance reports  
