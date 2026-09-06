@@ -6,4 +6,4 @@ The project focuses on transforming raw marketing data into meaningful insights 
 # Tools & Technology
 - Microsoft Excel
 - Power BI
-- MYsqL
+- sqL
