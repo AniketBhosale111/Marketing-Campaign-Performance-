@@ -33,4 +33,13 @@ The project focuses on transforming raw marketing data into meaningful insights 
 -  Data Visualization(created interactive Dashboard)
   using Power BI
 - Recommendation/Predictions
-key insights and results   
+key insights and results
+## Skills Required
+- ETL Pocess
+- Data collection and Transformation
+- Data cleaning using power query editor
+- EDA performance using SQL queries
+- data modeling 
+- data Analysis (Dax, SQL queries, KPI) 
+- Data visualization
+- dashboard creation 
